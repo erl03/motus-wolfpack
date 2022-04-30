@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bufferutil": "^4.0.6",
+    "discord-api-types": "^0.32.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "jest": "^28.0.2",
+    "nodemon": "^2.0.15",
+    "utf-8-validate": "^5.0.9"
+  },
+  "name": "motus",
+  "version": "1.0.0",
+  "description": "motus",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon bot.js",
+    "test": "jest"
+  },
+  "author": "mridley",
+  "license": "ISC"
+}
