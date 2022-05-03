@@ -1,5 +1,5 @@
 const VALID_LENGTHS = ['2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12' ,'13', '14', '15', '16', '17', '18', '19'];
-const LETTERS = Array.from('ãâáabcdeééèëfghiïjklmnñoôöòpqrstuùvwxyýz');
+const LETTERS = Array.from('ãâáabcçdeééèëfghiïjklmnñoôöòpqrstuùvwxyýz-ABCDEFGHIJKLMONPQRSTUVWYZ ');
 const RESPONSE_EMOJI = {
 
   0: ':black_large_square:',
